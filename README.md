@@ -12,8 +12,10 @@ This was then compared to the number of vegetarian restaurants in Rochester, a c
 
 The data was scraped from the yelp reviews of vegetarian restaurants in [South Lyon](https://www.yelp.com/search?find_desc=Vegetarian+Restaurants&find_loc=South+Lyon%2C+MI+48178%2C+United+States) and [Rochester](https://www.yelp.com/search?find_desc=Vegetarian+Restaurants&find_loc=Rochester%2C+MI%2C+United+States).
 
+The analysis done show that hosting a Pumpkinfest does not influence people's behaviour to eat less meat! But who knows, maybe it does influence them to eat more veggies?!
 
-Skills I learned in this project:
+
+Skills I honed in this project:
 - webdata scrapping 
 - data wrangling
 - data visualisation
